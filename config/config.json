@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Huxley",
+    "password": null,
+    "database": "gender_bubbles_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "Huxley",
+    "password": null,
+    "database": "gender_bubbles_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "Huxley",
+    "password": null,
+    "database": "gender_bubbles_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
